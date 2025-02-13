@@ -75,7 +75,7 @@ timer.grid(row=0,column=1)
 start = Button(text="Start",command=start_timer,highlightthickness=0)
 start.grid(row=2,column=0)
 
-#pause = Button(text="Start",command=pause_timer,highlightthickness=0)
+#pause = Button(text="Pause",command=pause_timer,highlightthickness=0)
 #pause.grid(row=2,column=1)
 
 reset = Button(text="Reset",command=reser_timer,highlightthickness=0)
